@@ -70,10 +70,10 @@ K-Guidance는 **💜 K-contnet 💙를 중심으로 외국인 관광객들이 �
 - **RAG 기반 컨텍스트 추천 모델**
 
 <details>
-<summary>📸 해당 화면 보기 </summary>
+<summary>📸 해당 화면 보기</summary>
 <br/>
-![챗봇 예시](./docs/chat_image1.png)
-![챗봇 예시2](./docs/chat_image2.png)
+<img src="./docs/chat_image1.png" alt="챗봇 예시" width="400"/>
+<img src="./docs/chat_image2.png" alt="챗봇 예시2" width="400"/>
 </details>
 
 ---
