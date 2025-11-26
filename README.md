@@ -56,6 +56,7 @@ K-Guidance는 **💜 K-contnet 💙를 중심으로 외국인 관광객들이 �
 ![서비스기능소개](./docs/service_intro.png)
 #### 1. **K-Content 기반 챗봇 – 맞춤형 여행지 추천**
 📌 **사용자 선호 데이터를 기반으로 한 맞춤형 서울 여행지 추천 서비스**
+
 **✔ 주요 기능**
 - 사용자의 관심사·선호도 분석을 통한 추천  
 - **K-콘텐츠 기반 추천 제공**
@@ -69,10 +70,10 @@ K-Guidance는 **💜 K-contnet 💙를 중심으로 외국인 관광객들이 �
 - **RAG 기반 컨텍스트 추천 모델**
 
 <details>
-<summary>📸 화면 캡처 보기 (클릭)</summary>
+<summary>📸 해당 화면 보기 </summary>
 <br/>
-![챗봇 예시](./docs/chatbot_1.png)
-![챗봇 예시2](./docs/chatbot_2.png)
+![챗봇 예시](./docs/chat_image1.png)
+![챗봇 예시2](./docs/chat_image2.png)
 </details>
 
 ---
