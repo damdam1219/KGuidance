@@ -10,13 +10,25 @@
 
 ---
 
-## 짱구같은 팀원소개🖤
+## 🖤 짱구같은 팀원소개 🖤
 <table>
-  <tr>
-    <td align="center"><b>김다은(팀장)</b></td>
-    <td align="center"><b>백승범(팀원)</b></td>
-    <td align="center"><b>한지훈(팀원)</b></td>
-  </tr>
+<tr>
+  <td align="center">
+    👉 <a href="https://github.com/damdam1219" target="_blank">
+      <b>김다은(팀장)</b>
+    </a>
+  </td>
+  <td align="center">
+    👉 <a href="https://github.com/tmdstart" target="_blank">
+      <b>백승범(팀원)</b>
+    </a>
+  </td>
+  <td align="center">
+    👉 <a href="https://github.com/meanresult" target="_blank">
+      <b>한지훈(팀원)</b>
+    </a>
+  </td>
+</tr>
   <tr>
     <td align="center"><img src="./wh07-3rd-kguidence/docs/da.png" alt="김다은" width="150"/></td>
     <td align="center"><img src="./wh07-3rd-kguidence/docs/se.png" alt="백승범" width="150"/></td>
@@ -90,15 +102,6 @@ K-Guidance는 ** 💜 K-contnet 💙를 중심으로 외국인 관광객들이 �
     * **Database (데이터베이스):** [MySQL, MongoDB, Qdrant 등]
     * **배포 환경:** [AWS EC2, Docker, Kubernetes 등]
 
-## 👥 팀원 소개 (Team Members)
-
-프로젝트를 함께 진행한 팀원들의 역할과 담당 영역을 소개합니다.
-
-| 이름 | 담당 역할 | 주요 기여 영역 |
-| :--- | :--- | :--- |
-| [팀원 1 이름] | [예: 팀장, 백엔드 개발] | [데이터 엔지니어링, API 서버 구축] |
-| [팀원 2 이름] | [예: 프론트엔드 개발] | [UI/UX 디자인, 웹 페이지 구현] |
-| [팀원 3 이름] | [예: 데이터 분석, DB 관리] | [데이터 전처리, 데이터베이스 설계] |
 
 ## 📁 GitHub 저장소 및 파일 소개
 
