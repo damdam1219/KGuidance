@@ -56,6 +56,7 @@ K-Guidance는 **💜 K-contnet 💙를 중심으로 외국인 관광객들이 �
 ![서비스기능소개](./docs/service_intro.png)
 #### 1. **K-Content 기반 챗봇 – 맞춤형 여행지 추천**
 📌 **사용자 선호 데이터를 기반으로 한 맞춤형 서울 여행지 추천 서비스**
+
 **✔ 주요 기능**
 - 사용자의 관심사·선호도 분석을 통한 추천  
 - **K-콘텐츠 기반 추천 제공**
@@ -69,10 +70,10 @@ K-Guidance는 **💜 K-contnet 💙를 중심으로 외국인 관광객들이 �
 - **RAG 기반 컨텍스트 추천 모델**
 
 <details>
-<summary>📸 화면 캡처 보기 (클릭)</summary>
+<summary>📸 해당 화면 보기</summary>
 <br/>
-![챗봇 예시](./docs/chatbot_1.png)
-![챗봇 예시2](./docs/chatbot_2.png)
+<img src="./docs/chat_image1.png" alt="챗봇 예시" width="450"/>
+<img src="./docs/chat_image2.png" alt="챗봇 예시2" width="450"/>
 </details>
 
 ---
@@ -93,12 +94,12 @@ K-Guidance는 **💜 K-contnet 💙를 중심으로 외국인 관광객들이 �
 - **RAG 기반 추천 근거 생성 모델**
 
 <details>
-<summary>📸 화면 캡처 보기 (클릭)</summary>
+<summary>📸 해당 화면 보기</summary>
 <br/>
-![추천 시스템 예시](./docs/recommend_1.png)
-![추천 시스템 예시2](./docs/recommend_2.png)
+<img src="./docs/reco_image1.png" alt="추천 예시" width="450"/>
+<img src="./docs/reco_image2.png" alt="추천 예시2" width="450"/>
 </details>
-
+---
 
 #### 3. **사용자 일정 플래너 – 직관적인 일정 수정/관리 UI**
 📌 **여행 일정 생성 → 지도 확인 → 대중교통 안내까지 한 번에 가능**
@@ -118,10 +119,10 @@ K-Guidance는 **💜 K-contnet 💙를 중심으로 외국인 관광객들이 �
 - 🚇 **Odsay API** – 대중교통·환승 정보 제공
 
 <details>
-<summary>📸 화면 캡처 보기 (클릭)</summary>
+<summary>📸 해당 화면 보기</summary>
 <br/>
-![일정 플래너 예시](./docs/planner_1.png)
-![일정 플래너 예시2](./docs/planner_2.png)
+<img src="./docs/schedule_image1.png" alt="스케쥴 예시" width="450"/>
+<img src="./docs/schedule_image2.png" alt="스케쥴 예시2" width="450"/>
 </details>
 
 
