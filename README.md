@@ -48,18 +48,29 @@
 
 ---
 
+## 💡 프로젝트 개요 (Project Overview)
+
+K-Guidance는 **💜 K-contnet 💙를 중심으로 외국인 관광객들이 쉽고 간편하게 한국 여행을 계획하고 즐길 수 있도록 돕기 위해 개발된 맞춤형 K-여행 플래너 웹 서비스**입니다.
+
+### 🔥 주요 기능 소개
+<img src="./docs/service_intro1.png" alt="서비스 기능 소개" width="100%"/>
+
+---
+
 <table>
   <tr>
+    <!-- 좌측 이미지 -->
     <td width="50%">
-      <img src="./docs/chat_image1.png" alt="챗봇 예시" width="100%"/>
+      <img src="./docs/chat_image1.png" alt="챗봇 예시1" width="100%"/>
       <img src="./docs/chat_image2.png" alt="챗봇 예시2" width="100%"/>
     </td>
+    <!-- 우측 설명 -->
     <td width="50%" valign="top">
       <h4>1. K-Content 기반 챗봇 – 맞춤형 여행지 추천</h4>
       <p>📌 사용자 선호 데이터를 기반으로 한 맞춤형 서울 여행지 추천 서비스</p>
       <ul>
-        <li>사용자의 관심사·선호도 분석</li>
-        <li>K-콘텐츠 기반 추천 제공
+        <li>사용자의 관심사·선호도 분석을 통한 추천</li>
+        <li><b>K-콘텐츠 기반 추천 제공</b>
           <ul>
             <li>🎵 K-pop 엔터테인먼트 스팟</li>
             <li>🍽️ 연예인 인기 맛집</li>
@@ -68,89 +79,54 @@
         </li>
         <li>RAG 모델로 컨텍스트 반영</li>
       </ul>
-      <p>🛠 기술 스택: Qdrant 벡터 검색, RAG 기반 컨텍스트 추천 모델</p>
+      <p>🛠 <b>기술 스택:</b> Qdrant 벡터 검색, RAG 기반 컨텍스트 추천 모델</p>
     </td>
   </tr>
 </table>
 
-## 💡 프로젝트 개요 (Project Overview)
+---
 
-K-Guidance는 **💜 K-contnet 💙를 중심으로 외국인 관광객들이 쉽고 간편하게 한국 여행을 계획하고 즐길 수 있도록 돕기 위해 개발된 맞춤형 K-여행 플래너 웹 서비스**입니다.
-
-### 🔥 주요 기능 소개
-![서비스기능소개](./docs/service_intro1.png)
-#### 1. **K-Content 기반 챗봇 – 맞춤형 여행지 추천**
-📌 **사용자 선호 데이터를 기반으로 한 맞춤형 서울 여행지 추천 서비스**
-
-**✔ 주요 기능**
-- 사용자의 관심사·선호도 분석을 통한 추천  
-- **K-콘텐츠 기반 추천 제공**
-  - 🎵 K-pop 엔터테인먼트 스팟  
-  - 🍽️ 연예인 인기 맛집  
-  - 🎬 K-Drama 촬영지  
-- 관심사 기반 RAG 모델로 컨텍스트 반영
-
-**🛠 기술 스택**  
-- **Qdrant 벡터 검색**  
-- **RAG 기반 컨텍스트 추천 모델**
-
-<details>
-<summary>📸 해당 화면 보기</summary>
-<br/>
-<img src="./docs/chat_image1.png" alt="챗봇 예시" width="450"/>
-<img src="./docs/chat_image2.png" alt="챗봇 예시2" width="450"/>
-</details>
+<table>
+  <tr>
+    <td width="50%">
+      <img src="./docs/reco_image1.png" alt="추천 예시1" width="100%"/>
+      <img src="./docs/reco_image2.png" alt="추천 예시2" width="100%"/>
+    </td>
+    <td width="50%" valign="top">
+      <h4>2. K-Media 추천 시스템 – 한국 드라마 촬영지 기반 추천</h4>
+      <p>📌 사용자가 좋아요(🧡)한 콘텐츠 기반으로 촬영지를 추천하는 개인화 시스템</p>
+      <ul>
+        <li>컨텐츠에 🧡 클릭 → 자동 북마크</li>
+        <li>북마크된 콘텐츠 기반 <b>개인 맞춤 촬영지 추천</b></li>
+        <li>사용자 취향을 반영한 추천 근거까지 도출</li>
+      </ul>
+      <p>✨ <b>차별점:</b> 생각지도 못한 장소를 발견하는 서프라이즈 추천 시스템</p>
+      <p>🛠 <b>기술 스택:</b> Qdrant 벡터 검색, RAG 기반 추천 근거 생성 모델</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-#### 2. **K-Media 추천 시스템 – 한국 드라마 촬영지 기반 추천**
-📌 **사용자가 좋아요(🧡)한 콘텐츠 기반으로 촬영지를 추천하는 개인화 시스템**
-
-**✔ 주요 기능**
-- 컨텐츠에 🧡 클릭 → 자동 북마크  
-- 북마크된 콘텐츠 기반 **개인 맞춤 촬영지 추천**  
-- 사용자 취향을 반영한 추천 근거까지 도출  
-
-**✨ 차별점**
-- “생각지도 못한 장소”를 발견하는 **서프라이즈 추천 시스템**
-
-**🛠 기술 스택**
-- **Qdrant 벡터 검색**
-- **RAG 기반 추천 근거 생성 모델**
-
-<details>
-<summary>📸 해당 화면 보기</summary>
-<br/>
-<img src="./docs/reco_image1.png" alt="추천 예시" width="450"/>
-<img src="./docs/reco_image2.png" alt="추천 예시2" width="450"/>
-</details>
-
----
-
-#### 3. **사용자 일정 플래너 – 직관적인 일정 수정/관리 UI**
-📌 **여행 일정 생성 → 지도 확인 → 대중교통 안내까지 한 번에 가능**
-
-**✔ 주요 기능**
-- 초보자도 쉽게 사용할 수 있는 직관적 일정 테이블  
-- **지도 연동**으로 목적지 위치 실시간 확인  
-- **대중교통(이동 경로) 자동 제공**
-
-**✨ 차별점**
-- 일정 확인/수정/삭제가 **한 화면**에서 모두 가능  
-- 지도, 목적지 리스트, 일정 테이블이 연결된 **통합형 인터페이스**
-
-**🛠 기술 스택**
-- 🔍 **Google API** – 장소 검색  
-- 🗺 **Naver Map API** – 영문 지도 제공  
-- 🚇 **Odsay API** – 대중교통·환승 정보 제공
-
-<details>
-<summary>📸 해당 화면 보기</summary>
-<br/>
-<img src="./docs/schedule_image1.png" alt="스케쥴 예시" width="450"/>
-<img src="./docs/schedule_image2.png" alt="스케쥴 예시2" width="450"/>
-</details>
-
+<table>
+  <tr>
+    <td width="50%">
+      <img src="./docs/schedule_image1.png" alt="스케줄 예시1" width="100%"/>
+      <img src="./docs/schedule_image2.png" alt="스케줄 예시2" width="100%"/>
+    </td>
+    <td width="50%" valign="top">
+      <h4>3. 사용자 일정 플래너 – 직관적인 일정 수정/관리 UI</h4>
+      <p>📌 여행 일정 생성 → 지도 확인 → 대중교통 안내까지 한 번에 가능</p>
+      <ul>
+        <li>초보자도 쉽게 사용할 수 있는 직관적 일정 테이블</li>
+        <li><b>지도 연동</b>으로 목적지 위치 실시간 확인</li>
+        <li>대중교통(이동 경로) 자동 제공</li>
+      </ul>
+      <p>✨ <b>차별점:</b> 일정 확인/수정/삭제가 한 화면에서 모두 가능, 지도+목적지 리스트+일정 테이블 통합</p>
+      <p>🛠 <b>기술 스택:</b> Google API(검색), Naver Map API(영문 지도), Odsay API(대중교통·환승)</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
