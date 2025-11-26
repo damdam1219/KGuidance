@@ -1,6 +1,6 @@
 # ✈ K-Guidance: 외국인을 위한 K-여행 가이드 서비스
 
-> **저장소 주소:** https://github.com/damdam1219/KGuidance.git
+> **저장소 주소:** (https://github.com/whynotsw-camp/wh07-3rd-kguidence.git)
 > 
 > **주최: [LG U+] Why Not SW Camp 7기**
 > 
