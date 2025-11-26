@@ -99,6 +99,7 @@ K-Guidance는 **💜 K-contnet 💙를 중심으로 외국인 관광객들이 �
 <img src="./docs/reco_image1.png" alt="추천 예시" width="450"/>
 <img src="./docs/reco_image2.png" alt="추천 예시2" width="450"/>
 </details>
+
 ---
 
 #### 3. **사용자 일정 플래너 – 직관적인 일정 수정/관리 UI**
