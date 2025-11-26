@@ -72,8 +72,8 @@ K-Guidance는 **💜 K-contnet 💙를 중심으로 외국인 관광객들이 �
 <details>
 <summary>📸 해당 화면 보기</summary>
 <br/>
-<img src="./docs/chat_image1.png" alt="챗봇 예시" width="400"/>
-<img src="./docs/chat_image2.png" alt="챗봇 예시2" width="400"/>
+<img src="./docs/chat_image1.png" alt="챗봇 예시" width="450"/>
+<img src="./docs/chat_image2.png" alt="챗봇 예시2" width="450"/>
 </details>
 
 ---
