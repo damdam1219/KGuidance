@@ -1,10 +1,36 @@
 # ✈ K-Guidance: 외국인을 위한 K-여행 가이드 서비스
 
 > **저장소 주소:** [https://github.com/damdam1219/KGuidance.git]
+> **프로젝트 기간: 2025.05.13~2025.11.21**
+> **LG U+ 부프캠프 최종 프로젝트 산출물**
+
+## 짱구같은 팀원소개🖤
+<table>
+  <tr>
+    <td align="center"><b>김다은</b></td>
+    <td align="center"><b>백승범</b></td>
+    <td align="center"><b>한지훈</b></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="./wh07-3rd-kguidence/docs/da.png" alt="김다은" width="150"/></td>
+    <td align="center"><img src="./wh07-3rd-kguidence/docs/se.png" alt="백승범" width="150"/></td>
+    <td align="center"><img src="./wh07-3rd-kguidence/docs/gi.png" alt="한지훈" width="150"/></td>
+  </tr>
+  <tr>
+    <td><b>역할:</b> 프론트엔드 개발 / UI·UX 기획</td>
+    <td><b>역할:</b> 백엔드 개발 / API 설계</td>
+    <td><b>역할:</b> 데이터 파이프라인 / 인프라</td>
+  </tr>
+  <tr>
+    <td><b>주요 기여:</b> 화면 설계, React 구조 구축, 지도·챗봇 인터페이스 구현</td>
+    <td><b>주요 기여:</b> LLM 연동, 추천 API 개발, Qdrant 백엔드 구현</td>
+    <td><b>주요 기여:</b> 서버 구성, 배포 환경 구축, 데이터 수집 및 정제</td>
+  </tr>
+</table>
 
 ## 💡 프로젝트 개요 (Project Overview)
 
-K-Guidance는 **외국인 관광객들이 쉽고 간편하게 한국 여행을 계획하고 즐길 수 있도록 돕기 위해 개발된 맞춤형 K-여행 플래너 웹 서비스**입니다. 빅데이터 분석 및 최신 기술을 활용하여 사용자 맞춤형 추천 및 직관적인 경로 설계를 제공합니다.
+K-Guidance는 ** 💜 K-contnet 💙를 중심으로 외국인 관광객들이 쉽고 간편하게 한국 여행을 계획하고 즐길 수 있도록 돕기 위해 개발된 맞춤형 K-여행 플래너 웹 서비스**입니다.
 
 ## 🎯 주요 기능 (Key Features)
 
