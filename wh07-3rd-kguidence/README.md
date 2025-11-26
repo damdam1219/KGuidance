@@ -1,7 +1,7 @@
 # K-Guidence
 
 <div align="center">
-  <img src="./wh07-3rd-kguidance/docs/logo.png" alt="K-Guidence Logo" width="200"/>
+  <img src="./docs/logo.png" alt="K-Guidence Logo" width="200"/>
 </div>
 
 <div align="center">
